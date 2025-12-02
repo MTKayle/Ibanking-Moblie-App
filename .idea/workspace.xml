@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a583536b-e33b-4e9e-a53d-4f10256f7b87" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/ibanking be/src/main/java/org/example/storyreading/ibanking/controller/AuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ibanking be/src/main/java/org/example/storyreading/ibanking/controller/AuthController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ibanking be/src/main/java/org/example/storyreading/ibanking/service/FaceRecognitionService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ibanking be/src/main/java/org/example/storyreading/ibanking/service/FaceRecognitionService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ibanking be/src/main/java/org/example/storyreading/ibanking/service/impl/AuthServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/ibanking be/src/main/java/org/example/storyreading/ibanking/service/impl/AuthServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ibanking be/src/main/java/org/example/storyreading/ibanking/service/impl/FaceRecognitionServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/ibanking be/src/main/java/org/example/storyreading/ibanking/service/impl/FaceRecognitionServiceImpl.java" afterDir="false" />
-    </list>
+    <list default="true" id="a583536b-e33b-4e9e-a53d-4f10256f7b87" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,7 +79,7 @@
       <workItem from="1764517379326" duration="3714000" />
       <workItem from="1764530517651" duration="1797000" />
       <workItem from="1764608140098" duration="9440000" />
-      <workItem from="1764690529691" duration="5760000" />
+      <workItem from="1764690529691" duration="6362000" />
     </task>
     <servers />
   </component>

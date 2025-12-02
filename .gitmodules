@@ -1,0 +1,3 @@
+[submodule "ibanking be"]
+	path = ibanking be
+	url = https://github.com/MTKayle/ibanking.git
