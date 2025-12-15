@@ -1,3 +1,6 @@
 [submodule "ibanking be"]
 	path = ibanking be
 	url = https://github.com/MTKayle/ibanking.git
+[submodule "banking-app"]
+	path = banking-app
+	url = https://github.com/MTKayle/banking-app.git
